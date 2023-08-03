@@ -3,6 +3,7 @@
 <!DOCTYPE html><html><head><meta charset="UTF-8">
 <title>Insert title here</title>
 </head><body>
+테스트
 <form action="cal_result.jsp">
 <table border="1"><caption>사칙연산</caption>
 	<tr><th>첫번째 수</th><td><input type="number"
